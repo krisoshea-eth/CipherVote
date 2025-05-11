@@ -34,7 +34,7 @@ The base branch of the project is `dev`, which is used for ongoing development.
 
 This project uses tags for releases. [View all MACI releases](https://github.com/privacy-scaling-explorations/maci/releases).
 
-To contribute to MACI, create feature/fix branches, then open PRs into `dev`. [Learn more about contributing](https://maci.pse.dev/docs/contributing).
+To contribute to MACI, create feature/fix branches, then open PRs into `dev`. [Learn more about contributing](https://maci.pse.dev/docs/guides/compile-circuits#installation).
 
 ### Local development
 
